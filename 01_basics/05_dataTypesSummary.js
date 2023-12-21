@@ -8,3 +8,8 @@
 // # Non Primitives (Reference types)
 // ----------------
 // Arrays, Objects, Functions
+
+// =======================
+
+// 2 types of memory
+// Stack(Primitive) , Heap(Non-Primitive)
