@@ -109,7 +109,7 @@ const slicedArray = arr.slice();
 
 // spread
 const arrC2 = [...arr];
-
+kkkkkkkk;
 // Array from
 // -----------
 // const arrC3 = Array.from("karthik"); => ["k","a","r","t","h","i","k"]
